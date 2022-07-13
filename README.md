@@ -1,1 +1,1 @@
-## Generic wrapper for go's container/heap package 
+## Min heap generic wrapper for go's container/heap package 
