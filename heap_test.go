@@ -1,4 +1,4 @@
-package generic_heap
+package heap
 
 import (
 	"testing"

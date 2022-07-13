@@ -1,5 +1,6 @@
-package generic_heap
+package heap
 
+// base implement container/heap interface
 type base[T any] struct {
 	data     []T
 	lessFunc func(a, b T) bool
